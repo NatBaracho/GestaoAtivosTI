@@ -10,7 +10,7 @@ namespace GestaoAtivosTI
             InitializeComponent();
             ConfigurarFormulario();
         }
-
+        //
         private void ConfigurarFormulario()
         {
             this.Text = "Login Sistema de Ativos";
